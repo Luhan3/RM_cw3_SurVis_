@@ -1,0 +1,1 @@
+define({ availableImg: ["Gao2020Mapping","Ginsberg2009Detecting","Beck2016Visual","Kishore2021Mobility","Lewis2022Coronavirus","Bonaccorsi2020Economic ","Hale2021Global","Hill2024Integrating","Fancourt2021Trajectories","VanBavel2020Using","Katsikopoulos2022Transparent"]});

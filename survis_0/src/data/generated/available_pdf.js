@@ -1,0 +1,1 @@
+define({availablePdf: ["Gao2020Mapping","Kishore2021Mobility","Lewis2022Coronavirus","Ginsberg2009Detecting","Bonaccorsi2020Economic ","Hale2021Global","Fancourt2021Trajectories","Hill2024Integrating","VanBavel2020Using","Katsikopoulos2022Transparent"]});
